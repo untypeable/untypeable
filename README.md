@@ -3,7 +3,7 @@
 <h3> Hostname Update Tool </h3>
 <p> - Inherit OU from old device </p>
 <p> - Inherit groups from old device </p>
-<p> - Update registry and other required elements </p>
+<p> - Update local registry and other required elements on local device</p>
 <hr>
 <h3> Device Info Viewer </h3>
 <p> - Model, Manufacturer, Serial Num, Asset Tag </p>
