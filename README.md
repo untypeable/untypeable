@@ -10,6 +10,7 @@
 <p> - Default printer, current logon user </p>
 <p> - OU Location, Group membership </p>
 <p> - Network info (MAC, IP, Connection type) </p>
+<p> - All installed programs and updates </p>
 <hr>
 <h3> AutoLogon Credential Recovery </h3>
 <p> Recovers LSA AutoLogon Credentials </p>
